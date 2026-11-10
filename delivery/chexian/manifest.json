@@ -1,0 +1,15 @@
+{
+  "name": "chexian-addon",
+  "version": "0.1.0",
+  "status": "partial-source-upload",
+  "repository": "zhaoshi2000/insurance-platform",
+  "sourceArchive": "车险项目源码包-v0.1.2.zip",
+  "uploadedFiles": [
+    "README.md",
+    "uniapp/insurance/pages/index.vue",
+    "uniapp/insurance/pages/household.vue",
+    "docs/STATUS.md",
+    "docs/INTEGRATION-NOTES.md"
+  ],
+  "notUploaded": "Remaining source files, binary assets and backend files are not yet committed."
+}
